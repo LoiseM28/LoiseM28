@@ -18,24 +18,50 @@
 
 ## 🌐 Socials
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-loisembithe.netlify.app-E8968A?style=for-the-badge&logo=netlify&logoColor=white)](https://loisembithe.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/loise-m)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:loiseloy90@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:loiseloy90@gmail.com)
 
 ---
 
 ## 💻 Tech Stack
 
-**Security Tools:**
+**Security Operations & SIEM:**
 
 ![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Cisco Secure Connect](https://img.shields.io/badge/Cisco_Secure_Connect-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Cisco Meraki](https://img.shields.io/badge/Cisco_Meraki-67B346?style=for-the-badge&logo=cisco&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
+![IBM QRadar](https://img.shields.io/badge/IBM_QRadar-1F70C1?style=for-the-badge&logo=ibm&logoColor=white)
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+**Threat Intelligence & Analysis:**
+
 ![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logoColor=white)
 ![Cisco Talos](https://img.shields.io/badge/Cisco_Talos-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Cisco Meraki](https://img.shields.io/badge/Cisco_Meraki-67B346?style=for-the-badge&logo=cisco&logoColor=white)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-CC0000?style=for-the-badge&logoColor=white)
+![AbuseIPDB](https://img.shields.io/badge/AbuseIPDB-CC0000?style=for-the-badge&logoColor=white)
+![AlienVault OTX](https://img.shields.io/badge/AlienVault_OTX-4A90D9?style=for-the-badge&logoColor=white)
+![Shodan](https://img.shields.io/badge/Shodan-FF0000?style=for-the-badge&logoColor=white)
+
+**Network Security:**
+
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0D9488?style=for-the-badge&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort-CC0000?style=for-the-badge&logoColor=white)
+![Zeek](https://img.shields.io/badge/Zeek-777BB4?style=for-the-badge&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-EF7B35?style=for-the-badge&logoColor=white)
+![Tcpdump](https://img.shields.io/badge/Tcpdump-005571?style=for-the-badge&logoColor=white)
+
+**Digital Forensics & Incident Response:**
+
+![Autopsy](https://img.shields.io/badge/Autopsy-555555?style=for-the-badge&logoColor=white)
+![Volatility](https://img.shields.io/badge/Volatility-333333?style=for-the-badge&logoColor=white)
+![FTK Imager](https://img.shields.io/badge/FTK_Imager-0D9488?style=for-the-badge&logoColor=white)
+![Sleuth Kit](https://img.shields.io/badge/Sleuth_Kit-444444?style=for-the-badge&logoColor=white)
+![Redline](https://img.shields.io/badge/Redline-CC0000?style=for-the-badge&logoColor=white)
+![KAPE](https://img.shields.io/badge/KAPE-1F70C1?style=for-the-badge&logoColor=white)
+![Velociraptor](https://img.shields.io/badge/Velociraptor-00ADEF?style=for-the-badge&logoColor=white)
 
 **Languages & Databases:**
 
@@ -49,11 +75,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-
-**SIEM & Monitoring:**
-
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ---
 
