@@ -1,6 +1,6 @@
 # 💫 About Me
 
-🔭 I'm currently working as a **Security Analyst Intern at Davis & Shirtliff**, monitoring and triaging enterprise security alerts daily using Microsoft Defender and Cisco Secure Connect.
+🔭 I'm currently working as a **Security Analyst (1) at Davis & Shirtliff**, monitoring and triaging enterprise security alerts daily using Microsoft Defender and Cisco Secure Connect.
 
 🌱 I'm currently deepening my skills in **Malware Analysis, Threat Hunting, and Cloud Security**
 
